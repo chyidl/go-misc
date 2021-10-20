@@ -1,0 +1,3 @@
+/build
+    - 打包和持续集成 CI/CD
+    - CI (travis, circle, drone)
