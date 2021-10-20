@@ -6,8 +6,8 @@ Uber zap - Blazing fast, structured, leveled logging in Go.
 */
 package main
 
-import  "go-misc/pkg/common"
+import  "github.com/chyidl/go-misc/pkg/common"
 
 func main() {
-	common.createDirectoryIfNotExists("logs")
+	common.CreateDirectoryIfNotExists("logs")
 }
